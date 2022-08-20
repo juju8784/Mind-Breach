@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\unrealeditor\\inc\\mindbreach\\mindbreachgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\mindbreacheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\unrealeditor\\development\\mindbreach\\definitions.mindbreach.h",
+            "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\source\\mindbreach\\mindbreachgamemode.h",
+            "d:\\program_files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program_files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program_files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\program_files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\unrealeditor\\inc\\mindbreach\\mindbreachgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

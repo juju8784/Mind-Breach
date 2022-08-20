@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\source\\mindbreach\\mindbreach.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\mindbreacheditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\intermediate\\build\\win64\\unrealeditor\\development\\mindbreach\\definitions.mindbreach.h",
+            "c:\\users\\julian\\documents\\github\\mind-breach\\mindbreach\\source\\mindbreach\\mindbreach.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

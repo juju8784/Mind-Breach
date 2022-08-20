@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MindBreach",
+			"Path": "C:\\Users\\Julian\\Documents\\GitHub\\Mind-Breach\\MindBreach\\Source\\MindBreach.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MindBreachEditor",
+			"Path": "C:\\Users\\Julian\\Documents\\GitHub\\Mind-Breach\\MindBreach\\Source\\MindBreachEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
